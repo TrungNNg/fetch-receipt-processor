@@ -1,11 +1,7 @@
 # Fetch Rewards Receipt Processor Challenge
 
----
-
 ## **Description**
 This project is a web service implementation for the provided API as described in the [Fetch Rewards Receipt Processor Challenge](https://github.com/fetch-rewards/receipt-processor-challenge).
-
----
 
 ## **Usage**
 
@@ -29,5 +25,3 @@ docker run -p 8080:4000 fetch
 By default, the server will listen on port `4000` inside the container, but it will be accessible on `localhost:8080` due to the port mapping.
 
 Once the container is running, you can access the API at: [http://localhost:8080](http://localhost:8080)
-
----
